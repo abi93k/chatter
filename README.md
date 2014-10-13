@@ -5,7 +5,7 @@ A simple chat application using *node.js*
 
 Setup
 =======
-
+    $ git clone git://github.com/abi93k/chatter.git
     $ cd Chatter
     $ npm install
     $ node app.js
