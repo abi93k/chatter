@@ -17,6 +17,7 @@ Features
 - Users can choose their own username on page load.
 - Multiple chat rooms.
 - A notification is sent to all users in a room when a user joins/leaves the room.
+- Font color support.
 - Smiley support.
 
 
